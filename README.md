@@ -25,6 +25,10 @@ Uma interface gráfica em Python para converter e enviar leads do Excel para o F
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ricardochristovao)
 
 ---
+## 📥 Download
+Você pode baixar a versão mais recente do executável na seção [Releases](https://github.com/ricardochristovao/facebook-lead-converter/releases).
+
+---
 
 ## 🚀 Funcionalidades
 
