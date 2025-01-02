@@ -1,0 +1,18 @@
+facebook_business==21.0.5
+pandas==2.2.3
+tenacity==9.0.0
+tqdm==4.67.1
+# GUI e processamento de dados
+tkinter
+pandas>=1.5.0
+openpyxl>=3.1.0  # Para suporte a arquivos Excel
+
+# Facebook API
+facebook-business>=17.0.0
+
+# Utilitários
+python-dateutil>=2.8.2
+pytz>=2023.3
+
+# Para criar o executável
+pyinstaller>=6.3.0
